@@ -1,1 +1,1 @@
-# opside-contracts
+# opside-protocol-contracts
